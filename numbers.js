@@ -7,5 +7,5 @@ else if (a == b){
     alert("The numbers are equal");
 }
 else{
-    alert("The larger number is "+a )
+    alert("The larger number is "+b )
 }
